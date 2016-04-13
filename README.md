@@ -1,2 +1,3 @@
 # hello-world
-jez sayin hi
+jez sayin hi.
+I like stuff and things.
